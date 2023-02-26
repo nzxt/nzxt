@@ -1,7 +1,8 @@
 # 👋🏻 Hi, my nickname is **NZXTUA**!
 ## I'm a *Web Front-End Engineer* from Ukraine.
 ### Check my website: [nzxt.github.io](https://nzxt.github.io)
-### Stack 
+
+### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -19,7 +20,7 @@
 ![GTX1650](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### ✉️ Mail me: nzxt.ua@gmail.com
-#
+
 > Talk is cheap. Show me the code. <br/>
 > ***Linus Torvalds***
 
